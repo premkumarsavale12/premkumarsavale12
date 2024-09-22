@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Premkumar Savale
 - 👀 I’m interested in Coading in FullStack Developer
 - 🌱 I’m currently learning  Dot Net SkillHouse
-- 💞️ I’m looking to collaborate on FullStacl Dev in  Microsoft Stack
+- 💞️ I’m looking to collaborate on FullStack Dev in  Microsoft Stack
 - 📫 How to reach me premsavle112@gmail.com
 - ⚡ Fun fact I like to play Cricket & Chess
 
